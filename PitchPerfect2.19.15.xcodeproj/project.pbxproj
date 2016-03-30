@@ -85,9 +85,9 @@
 			children = (
 				D5DB685F1A9615E800F8813A /* AppDelegate.swift */,
 				D5DB68611A9615E800F8813A /* RecordSoundsViewController.swift */,
+				D5DB68811A961F1200F8813A /* PlaySoundsViewController.swift */,
 				D5DB68631A9615E800F8813A /* Main.storyboard */,
 				D5DB68851A97A5D500F8813A /* RecordedAudio.swift */,
-				D5DB68811A961F1200F8813A /* PlaySoundsViewController.swift */,
 				D5DB68661A9615E800F8813A /* Images.xcassets */,
 				D5DB68681A9615E800F8813A /* LaunchScreen.xib */,
 				D5DB685D1A9615E800F8813A /* Supporting Files */,
